@@ -70,6 +70,7 @@ class Configuration
             '1week'  => 604800,
             '1month' => 2592000,
             '1year'  => 31536000,
+	    '30min'  => 1800,
             'never'  => 0,
         ),
         'formatter_options' => array(
